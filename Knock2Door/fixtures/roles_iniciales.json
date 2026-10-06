@@ -1,0 +1,22 @@
+[
+  {
+    "model": "Knock2Door.rol",
+    "pk": 1,
+    "fields": {
+      "nombre": "Administrador",
+      "descripcion": "Acceso total al sistema",
+      "created_at": "2026-10-06T00:00:00Z",
+      "updated_at": "2026-10-06T00:00:00Z"
+    }
+  },
+  {
+    "model": "Knock2Door.rol",
+    "pk": 2,
+    "fields": {
+      "nombre": "Agente Inmobiliario",
+      "descripcion": "Gestión de propiedades y visitas",
+      "created_at": "2026-10-06T00:00:00Z",
+      "updated_at": "2026-10-06T00:00:00Z"
+    }
+  }
+]
